@@ -1,7 +1,6 @@
 //Vrajesh Patel
 //4th December 2020
-//EECS login: vrajesh1
-//
+
 
 `define OPNOP  3'b000
 `define OPADD  3'b001
